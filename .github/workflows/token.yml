@@ -48,7 +48,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email ais8@gmail.com
-          git config --global user.name m23hsjs
+          git config --global user.name AJJiaMin
           git add .
           git commit -m "Update new token" 
       
